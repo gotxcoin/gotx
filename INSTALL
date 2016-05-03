@@ -1,0 +1,9 @@
+Building GothicCoin
+
+See doc/readme-qt.rst for instructions on building GothicCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GothicCoin.
+
+See doc/build-*.txt for instructions on building gothiccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GothicCoin.
